@@ -4,13 +4,14 @@
 
 После установки появиться тема «Solarized Web Темная». 
 
-## Screenshots
+## Скриншоты
 
-### Dark Screenshot
+### Скриншот PHP
 !["Solarized Web Темная PHP"](https://raw.githubusercontent.com/AlexeyS-AS/vscode-solarized-theme/main/screenshots/dark-php.png)
+### Скриншот CSS
 !["Solarized Web Темная CSS"](https://raw.githubusercontent.com/AlexeyS-AS/vscode-solarized-theme/main/screenshots/dark-css.png)
 
 
-## License
+## Лицензия
 
 MIT
