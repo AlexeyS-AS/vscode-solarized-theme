@@ -1,7 +1,7 @@
 {
-	"name": "solarized",
+	"name": "solarized-web",
 	"version": "0.0.1",
-	"displayName": "Solarized",
+	"displayName": "Solarized Web",
 	"description": "Тема Solarized для VS Code",
 	"publisher": "AlexeyS",
 	"repository": "https://github.com/alexeys-as/vscode-solarized-theme",
@@ -20,7 +20,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Solarized Темная",
+				"label": "Solarized Web Темная",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark-color-theme.json"
 			}
