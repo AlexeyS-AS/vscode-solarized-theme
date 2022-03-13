@@ -590,6 +590,15 @@
 			}
 		},
 		{
+			"name": "Variable global",
+			"scope": [
+				"variable.other.global.php"
+			],
+			"settings": {
+				"foreground": "#eeae00"
+			}
+		},
+		{
 			"name": "Variable this",
 			"scope": [
 				"variable.language.this.php"
