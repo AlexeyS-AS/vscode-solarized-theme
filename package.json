@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"displayName": "Solarized",
 	"description": "Тема Solarized для VS Code",
-	"publisher": "alexeys",
+	"publisher": "AlexeyS",
 	"repository": "https://github.com/alexeys-as/vscode-solarized-theme",
 	"license": "MIT",
 	"icon": "icon.png",
@@ -25,5 +25,5 @@
 				"path": "./themes/dark-color-theme.json"
 			}
 		]
-	},
+	}
 }
