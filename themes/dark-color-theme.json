@@ -503,7 +503,7 @@
 		{
 			"scope": "variable.other",
 			"settings": {
-				"foreground": "#839496"
+				"foreground": "#c79200"
 			}
 		},
 		{
@@ -702,5 +702,48 @@
 				"foreground": "#34b9ae"
 			}
 		},
+		//js
+		{
+			"name": "JS function",
+			"scope": "entity.name.function.js",
+			"settings": {
+				"foreground": "#c79200"
+			}
+		},
+		{
+			"name": "JS variable",
+			"scope": [
+				"variable.parameter.js"
+			],
+			"settings": {
+				"foreground": "#c79200"
+			}
+		},
+		{
+			"name": "JS key",
+			"scope": [
+				"meta.object-literal.key.js"
+			],
+			"settings": {
+				"foreground": "#c79200"
+			}
+		},
+		{
+			"name": "JS this",
+			"scope": "variable.language.this.js",
+			"settings": {
+				"foreground": "#98af00"
+			}
+		},
+		{
+			"name": "JS boolean",
+			"scope": [
+				"constant.language.boolean.true.js",
+				"constant.language.boolean.false.js"
+			],
+			"settings": {
+				"foreground": "#98af00"
+			}
+		}
 	]
 }
