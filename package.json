@@ -12,7 +12,7 @@
 		"dark"
 	],
 	"engines": {
-		"vscode": "^1.20.0"
+		"vscode": "^1.63.0"
 	},
 	"categories": [
 		"Themes"
