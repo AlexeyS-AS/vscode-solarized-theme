@@ -705,7 +705,10 @@
 		//js
 		{
 			"name": "JS function",
-			"scope": "entity.name.function.js",
+			"scope": [
+				"entity.name.function.js",
+				"entity.name.function.ts"
+			],
 			"settings": {
 				"foreground": "#c79200"
 			}
@@ -725,12 +728,15 @@
 				"meta.object-literal.key.js"
 			],
 			"settings": {
-				"foreground": "#c79200"
+				"foreground": "#839496"
 			}
 		},
 		{
 			"name": "JS this",
-			"scope": "variable.language.this.js",
+			"scope": [
+				"variable.language.this.js",
+				"variable.language.this.ts"
+			],
 			"settings": {
 				"foreground": "#98af00"
 			}
@@ -744,6 +750,15 @@
 			"settings": {
 				"foreground": "#98af00"
 			}
-		}
+		},
+		{
+			"name": "TS const",
+			"scope": [
+				"storage.type.ts"
+			],
+			"settings": {
+				"foreground": "#98af00"
+			}
+		},
 	]
 }
